@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=1920,height=1080"><title>说好只是看流星</title><link rel="icon" href="data:,">
+<script src="assets/gsap.min.js"></script>
+<style>
+@font-face{font-family:Film;src:url('assets/fonts/NotoSansCJK-Bold.ttc');font-weight:700;font-display:block}*{box-sizing:border-box}html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:#202a47}#film{position:relative;width:1920px;height:1080px}.clip{position:absolute;inset:0;width:1920px;height:1080px}canvas{display:block}audio{display:none}
+</style></head><body><main id="film" data-composition-id="main" data-start="0" data-duration="48" data-width="1920" data-height="1080" data-fps="30">
+<canvas id="picture" class="clip" width="1920" height="1080" data-start="0" data-duration="48" data-track-index="0" data-layout-allow-overflow aria-label="说好只是看流星：像素动画"></canvas>
+<audio id="soundtrack" src="assets/audio/full-mix.wav" data-start="0" data-duration="48" data-volume="1" data-track-index="1" preload="auto"></audio>
+</main><script>window.__timelines = window.__timelines || {}; window.__timelines["main"] = gsap.timeline({paused:true});</script><script type="module" src="src/film.js"></script></body></html>

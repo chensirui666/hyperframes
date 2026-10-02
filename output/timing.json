@@ -1,0 +1,187 @@
+{
+  "dialogue": [
+    {
+      "start": 0.6,
+      "end": 3,
+      "speaker": "tv",
+      "text": "今晚，史上最大\n规模的流星雨！",
+      "pitch": 72,
+      "presentation": "bubble"
+    },
+    {
+      "start": 7.8,
+      "end": 9.15,
+      "speaker": "red",
+      "text": "今晚流星雨！",
+      "pitch": 64,
+      "presentation": "bubble"
+    },
+    {
+      "start": 9.15,
+      "end": 10.8,
+      "speaker": "red",
+      "text": "星见山露营，\n走不走？",
+      "pitch": 64,
+      "presentation": "bubble"
+    },
+    {
+      "start": 10.8,
+      "end": 12,
+      "speaker": "yellow",
+      "text": "带烤串！",
+      "pitch": 55,
+      "presentation": "bubble"
+    },
+    {
+      "start": 11.25,
+      "end": 12.35,
+      "speaker": "blue",
+      "text": "走！",
+      "pitch": 76,
+      "presentation": "bubble"
+    },
+    {
+      "start": 11.7,
+      "end": 12.65,
+      "speaker": "green",
+      "text": "安排！",
+      "pitch": 60,
+      "presentation": "bubble"
+    },
+    {
+      "start": 12.15,
+      "end": 13,
+      "speaker": "purple",
+      "text": "冲！",
+      "pitch": 81,
+      "presentation": "bubble"
+    },
+    {
+      "start": 33,
+      "end": 35.2,
+      "speaker": "green",
+      "text": "不是，\n你来真的？！",
+      "pitch": 60,
+      "presentation": "bubble"
+    },
+    {
+      "start": 35.2,
+      "end": 36,
+      "speaker": "purple",
+      "text": "这么灵？！",
+      "pitch": 81,
+      "presentation": "bubble"
+    }
+  ],
+  "events": {
+    "sit": 3.12,
+    "stow": 4.45,
+    "ring": 6,
+    "transform": 29,
+    "reveal": 31.5,
+    "reaction": 32.5,
+    "run": 36,
+    "liftoff": 37.6,
+    "contact": 39.3,
+    "deflect": 42,
+    "flash": 47.1
+  },
+  "shots": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 3,
+      "name": "客厅伏笔"
+    },
+    {
+      "id": 2,
+      "start": 3,
+      "end": 6,
+      "name": "坐直与收包"
+    },
+    {
+      "id": 3,
+      "start": 6,
+      "end": 7.5,
+      "name": "电话五分屏"
+    },
+    {
+      "id": 4,
+      "start": 7.5,
+      "end": 13,
+      "name": "露营邀约"
+    },
+    {
+      "id": 5,
+      "start": 13,
+      "end": 14.5,
+      "name": "山脚集合"
+    },
+    {
+      "id": 6,
+      "start": 14.5,
+      "end": 16,
+      "name": "爬山"
+    },
+    {
+      "id": 7,
+      "start": 16,
+      "end": 18,
+      "name": "烧烤"
+    },
+    {
+      "id": 8,
+      "start": 18,
+      "end": 22,
+      "name": "草地许愿"
+    },
+    {
+      "id": 9,
+      "start": 22,
+      "end": 25,
+      "name": "流星变大"
+    },
+    {
+      "id": 10,
+      "start": 25,
+      "end": 27,
+      "name": "危机"
+    },
+    {
+      "id": 11,
+      "start": 27,
+      "end": 29,
+      "name": "掏出神光棒"
+    },
+    {
+      "id": 12,
+      "start": 29,
+      "end": 32.5,
+      "name": "变身"
+    },
+    {
+      "id": 13,
+      "start": 32.5,
+      "end": 36,
+      "name": "朋友震惊"
+    },
+    {
+      "id": 14,
+      "start": 36,
+      "end": 39,
+      "name": "助跑起飞"
+    },
+    {
+      "id": 15,
+      "start": 39,
+      "end": 45,
+      "name": "推离陨石"
+    },
+    {
+      "id": 16,
+      "start": 45,
+      "end": 48,
+      "name": "太空闪光"
+    }
+  ]
+}

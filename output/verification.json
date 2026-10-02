@@ -1,0 +1,59 @@
+{
+  "file": "/workspace/hyperframes/output/说好只是看流星.mp4",
+  "bytes": 49380964,
+  "sha256": "6a35c31c78f71423fb45b578f740caaf7cb26c5113cf28702fcf812434dfa276",
+  "duration_seconds": 48.0,
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frames": 1440,
+    "pixel_format": "yuv420p"
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "duration_seconds": 48.0,
+    "source_correlation": 0.9991435814225871,
+    "reaction_pause_interior_rms": 0.0,
+    "no_human_voice": true
+  },
+  "decode_errors": [],
+  "encoded_frame_comparisons": [
+    {
+      "time": 1.8,
+      "mean_absolute_pixel_error": 2.7745730876922607
+    },
+    {
+      "time": 8.2,
+      "mean_absolute_pixel_error": 2.4161109924316406
+    },
+    {
+      "time": 19.4,
+      "mean_absolute_pixel_error": 2.482836961746216
+    },
+    {
+      "time": 28.4,
+      "mean_absolute_pixel_error": 2.163175344467163
+    },
+    {
+      "time": 31.8,
+      "mean_absolute_pixel_error": 2.1326160430908203
+    },
+    {
+      "time": 34,
+      "mean_absolute_pixel_error": 1.9471638202667236
+    },
+    {
+      "time": 41,
+      "mean_absolute_pixel_error": 2.1059412956237793
+    },
+    {
+      "time": 46,
+      "mean_absolute_pixel_error": 1.9456684589385986
+    }
+  ],
+  "review": "独立审查发现的结尾位置跳动已修正；编码后关键帧与源合成逐像素误差检查通过。"
+}

@@ -1,0 +1,10 @@
+node_modules/
+.browser/
+.hyperframes/
+output/frames/
+output/*.mp4
+output/*.png
+output/*.log
+assets/audio/stems/
+assets/audio/mix-float.wav
+output/encoded-frames/

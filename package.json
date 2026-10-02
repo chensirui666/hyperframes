@@ -1,0 +1,1 @@
+{"name":"pixel-meteor-film","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","preview":"hyperframes preview","render":"hyperframes render -o output/说好只是看流星.mp4"},"dependencies":{"hyperframes":"0.8.111","gsap":"3.15.0","playwright":"1.58.2"}}
