@@ -4,7 +4,8 @@
 
 ## 成片与工程
 
-- `output/说好只是看流星.mp4`：带配乐和音效的成片。
+- [下载最终 MP4](https://github.com/chensirui666/hyperframes/raw/refs/heads/main/output/%E8%AF%B4%E5%A5%BD%E5%8F%AA%E6%98%AF%E7%9C%8B%E6%B5%81%E6%98%9F.mp4)：带配乐和音效的 48 秒成片。
+- [下载制作工程压缩包](https://github.com/chensirui666/hyperframes/raw/refs/heads/main/output/production-project.zip)：源码、素材、完整混音与九条音频分轨。
 - `index.html`：HyperFrames 主合成。
 - `src/timeline.js`：16 镜头、角色气泡和关键动作的统一时间表。
 - `src/actors.js`：六个像素角色及动作、表情、道具绘制。
